@@ -1,7 +1,7 @@
 <? php
 
-define ('BOT_TOKEN', '12345678: replace-me-con-real-token');
-define ('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+('BOT_TOKEN', '12345678: replace-me-con-real-token');
+https://api.telegram.org/bot/getMe
 
 Funzione apiRequestWebhook ($ metodo, i parametri di $) {
   if (! is_string ($ metodo)) {
